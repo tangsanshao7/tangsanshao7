@@ -3,15 +3,14 @@
   I'm Silence-dream, a front-end developer.
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
 
-  - 🚀 I use daily:
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-      ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-      ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-      ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  - 🌱 Learning all about:
-      ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
-      ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  - ⚡️ Fun fact: I am very interested in 🍿 movies and ⚽️ football.
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
 
-  ![](https://github-readme-stats.vercel.app/api?username=Silence-dream)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
+![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+
+
+  ![](https://github-readme-stats.vercel.app/api?username=tnag1908)
