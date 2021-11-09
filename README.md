@@ -1,9 +1,4 @@
 - # 👋 Hey there
-<p align="center">
-  <a href="https://github.com/tangsanshao7/TangJiWei">
-    <img src="./github-metrics.svg">
-  </a>
-</p> 
   I'm tangsanshao7, a front-end developer.
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/tangsanshao7)
 
